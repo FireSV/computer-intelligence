@@ -1,0 +1,258 @@
+id,Brand,Material,Size,Compartments,Laptop Compartment,Waterproof,Style,Color,Weight Capacity (kg)
+300000,Puma,Leather,Small,2,No,No,Tote,Green,20.67114661
+300001,Nike,Canvas,Medium,7,No,Yes,Backpack,Green,13.56410457
+300002,Adidas,Canvas,Large,9,No,Yes,Messenger,Blue,11.80979908
+300003,Adidas,Nylon,Large,1,Yes,No,Messenger,Green,18.47703609
+300004,,Nylon,Large,2,Yes,Yes,Tote,Black,9.907953034
+300005,Under Armour,Nylon,Medium,8,No,No,Backpack,Black,17.54767319
+300006,Nike,Nylon,Large,8,No,Yes,Tote,Blue,16.00302501
+300007,Jansport,Polyester,Medium,6,Yes,No,Backpack,Blue,24.23809083
+300008,Nike,Canvas,Large,8,Yes,Yes,Backpack,Red,19.18116728
+300009,Puma,Leather,Large,1,No,No,Tote,Blue,9.937961682
+300010,Adidas,Nylon,Small,1,Yes,No,Tote,Pink,13.58597826
+300011,Jansport,Leather,Small,9,Yes,Yes,Backpack,Red,14.05195928
+300012,Puma,Leather,Large,5,Yes,No,Messenger,Blue,14.98751044
+300013,Under Armour,Leather,Medium,1,Yes,No,Messenger,Green,19.54331613
+300014,Nike,Leather,Medium,5,Yes,No,Messenger,Pink,25.03123952
+300015,Puma,Polyester,Medium,3,Yes,No,Backpack,Red,24.82895064
+300016,Nike,Nylon,Small,3,No,No,Messenger,Green,13.6363317
+300017,Jansport,Polyester,Medium,10,Yes,No,Tote,Red,19.23104944
+300018,Nike,Nylon,Large,2,Yes,Yes,Messenger,Pink,28.92488264
+300019,Adidas,Canvas,Small,7,Yes,No,Tote,Blue,24.84953022
+300020,Jansport,Canvas,Small,5,No,Yes,Messenger,Green,18.6890394
+300021,Under Armour,Canvas,Large,7,No,Yes,Tote,Pink,8.38399973
+300022,Jansport,Leather,Medium,2,Yes,No,Backpack,Gray,13.28128039
+300023,Under Armour,Nylon,Medium,1,No,Yes,Tote,Gray,14.97265798
+300024,Puma,Polyester,Small,6,Yes,No,Tote,Green,11.17742786
+300025,Nike,Leather,Medium,1,Yes,Yes,Messenger,Green,15.3582361
+300026,Jansport,Leather,Large,4,Yes,No,Tote,Pink,20.82986709
+300027,Jansport,Leather,Small,1,No,No,Tote,Black,24.9918293
+300028,,Nylon,Small,1,Yes,No,Messenger,Red,28.35647046
+300029,Under Armour,Polyester,Medium,4,Yes,No,Messenger,Gray,19.28106167
+300030,Puma,Polyester,Medium,3,No,No,Messenger,,26.8659814
+300031,Nike,Nylon,Medium,9,Yes,Yes,Backpack,Blue,15.60442259
+300032,Nike,,Small,3,Yes,No,Tote,Blue,13.82884746
+300033,Under Armour,Canvas,Small,2,Yes,No,Tote,Pink,9.859968674
+300034,Nike,Leather,Medium,6,Yes,Yes,Tote,Blue,7.304929416
+300035,Jansport,Canvas,Small,9,No,No,Messenger,Black,15.94951873
+300036,Jansport,Leather,Small,7,No,No,Backpack,Red,28.94500468
+300037,Jansport,Canvas,Large,8,Yes,Yes,Backpack,Gray,24.93886648
+300038,Jansport,Nylon,Small,3,,No,Backpack,Green,6.557516741
+300039,Adidas,Leather,Medium,8,Yes,No,Tote,Red,23.85112785
+300040,Puma,Polyester,Medium,10,Yes,No,Backpack,Red,27.41342657
+300041,Under Armour,Nylon,Large,10,No,No,Backpack,Black,23.53451171
+300042,Under Armour,Canvas,Large,1,Yes,Yes,Messenger,Blue,11.85584528
+300043,Under Armour,Nylon,,4,Yes,No,Messenger,Blue,14.19098715
+300044,Nike,Polyester,Small,8,No,No,,Blue,29.05804927
+300045,Under Armour,Nylon,Medium,2,,No,Messenger,,25.30747752
+300046,Under Armour,Leather,Large,2,Yes,No,Backpack,Red,25.09063868
+300047,Nike,Polyester,Small,3,Yes,,Tote,Pink,25.96415917
+300048,Jansport,Canvas,Small,4,No,No,Messenger,Blue,29.15450803
+300049,Adidas,Nylon,Medium,7,Yes,Yes,Tote,Gray,14.55320259
+300050,Under Armour,Leather,Large,6,No,No,Backpack,Pink,6.624595588
+300051,Adidas,Nylon,Medium,5,Yes,No,Messenger,Green,14.81424574
+300052,Nike,Leather,Large,7,No,Yes,Messenger,Green,16.53591025
+300053,Puma,Polyester,Large,5,Yes,Yes,Tote,Red,29.05593588
+300054,Jansport,Canvas,Medium,10,No,Yes,Messenger,Green,13.73353328
+300055,Under Armour,Nylon,Medium,8,No,Yes,Messenger,Gray,13.61042596
+300056,Adidas,Canvas,Medium,9,No,Yes,Tote,Pink,10.3176124
+300057,Nike,Nylon,Small,8,Yes,Yes,Tote,Black,27.25205777
+300058,Nike,Canvas,Large,8,No,Yes,Backpack,Blue,21.86957364
+300059,Nike,Polyester,Small,7,Yes,Yes,Tote,Pink,29.06516044
+300060,Adidas,Leather,Medium,10,No,No,Messenger,Pink,28.0978915
+300061,Nike,Leather,Small,4,No,Yes,Backpack,Green,24.69651941
+300062,Nike,Leather,Medium,7,Yes,Yes,Messenger,Red,21.44868096
+300063,Nike,Leather,Large,3,No,No,Messenger,Gray,24.54125132
+300064,Under Armour,Nylon,Small,10,Yes,No,Messenger,,5
+300065,Nike,Polyester,Small,1,Yes,No,Tote,Black,24.6829675
+300066,Jansport,Nylon,Medium,1,Yes,Yes,Messenger,Green,28.92938497
+300067,Under Armour,Nylon,Medium,1,No,Yes,Messenger,Pink,28.91401947
+300068,Puma,Leather,Medium,1,,No,Backpack,Gray,7.27178524
+300069,Under Armour,Canvas,Large,7,No,Yes,Tote,Black,27.80478878
+300070,,Nylon,Medium,4,Yes,No,Messenger,Pink,16.29803663
+300071,Under Armour,Canvas,Small,9,Yes,Yes,Backpack,Green,23.92266143
+300072,Nike,Canvas,Small,4,,No,Messenger,Black,19.87902168
+300073,Adidas,Polyester,Large,3,Yes,No,Tote,Gray,18.88783802
+300074,Under Armour,Canvas,Small,4,Yes,Yes,Tote,Gray,29.73038552
+300075,Nike,Polyester,Medium,3,Yes,Yes,Backpack,Gray,13.65682528
+300076,Puma,Leather,Medium,6,Yes,Yes,Tote,Gray,13.8671145
+300077,Adidas,Leather,Medium,2,No,No,Backpack,Pink,8.051412433
+300078,Puma,Polyester,Small,7,No,Yes,Tote,Green,23.08439089
+300079,Jansport,Nylon,Medium,10,,No,Messenger,Blue,19.96630705
+300080,,Nylon,Large,8,,No,Messenger,Black,11.67984065
+300081,Nike,Nylon,Medium,10,Yes,No,Tote,Green,26.16122499
+300082,Puma,Leather,Medium,4,No,Yes,Messenger,Black,26.13002188
+300083,Nike,Polyester,Large,4,No,Yes,Backpack,Gray,8.068077753
+300084,Jansport,Leather,Medium,8,Yes,Yes,Backpack,Black,24.78247021
+300085,Puma,Nylon,Small,4,No,Yes,Backpack,Blue,23.47720795
+300086,Adidas,Leather,Large,7,No,No,Backpack,Black,17.4970108
+300087,Under Armour,Leather,Small,6,No,Yes,Messenger,Pink,28.09884855
+300088,Adidas,Canvas,Large,2,Yes,Yes,Messenger,Red,18.06783821
+300089,Under Armour,Canvas,Medium,6,Yes,No,Tote,Blue,21.93548634
+300090,Adidas,Polyester,Small,10,No,Yes,Messenger,Black,27.30452266
+300091,Nike,Canvas,Large,10,Yes,Yes,Backpack,Red,15.36135507
+300092,Puma,Leather,Small,1,No,No,Tote,Pink,24.73949952
+300093,Under Armour,Polyester,Medium,6,No,Yes,Tote,Pink,7.299954172
+300094,Nike,Nylon,Large,2,Yes,Yes,Messenger,Blue,6.858910457
+300095,Under Armour,Canvas,Medium,9,Yes,Yes,Backpack,Black,26.16754682
+300096,Nike,Nylon,Large,1,Yes,Yes,,Green,6.247893017
+300097,Nike,Nylon,Small,1,No,Yes,Messenger,Green,9.915670458
+300098,Puma,Polyester,Small,8,No,No,Tote,Blue,23.72270976
+300099,Under Armour,Polyester,Medium,3,Yes,No,Messenger,Blue,15.5567463
+300100,Adidas,Polyester,Medium,6,No,Yes,Tote,,25.09967094
+300101,Adidas,Leather,Large,1,No,Yes,Backpack,Green,16.63389588
+300102,Puma,Polyester,Small,3,Yes,No,Backpack,Pink,16.92921517
+300103,Jansport,Nylon,Medium,5,No,No,Backpack,Black,6.969951908
+300104,Jansport,Polyester,Medium,7,No,No,Backpack,Gray,26.45503727
+300105,Puma,Canvas,Medium,10,No,Yes,Messenger,Green,26.83489283
+300106,Nike,Canvas,Medium,3,No,Yes,Tote,Gray,20.13081044
+300107,Puma,Leather,Medium,4,Yes,Yes,Backpack,Black,14.6227733
+300108,Nike,Leather,Medium,1,No,Yes,Messenger,Red,18.38817307
+300109,Under Armour,Nylon,Medium,6,No,Yes,Messenger,Pink,28.31272301
+300110,Jansport,Nylon,Large,6,Yes,No,Tote,Gray,16.85855333
+300111,Adidas,Leather,Medium,9,No,Yes,Tote,,5
+300112,Puma,Leather,Medium,5,No,No,Tote,Pink,24.9867336
+300113,Adidas,Leather,Large,9,Yes,Yes,Tote,Red,21.23332789
+300114,Nike,Polyester,Medium,10,Yes,Yes,Backpack,Blue,24.10697832
+300115,Adidas,Leather,Large,2,No,Yes,Backpack,Blue,27.44226099
+300116,Nike,Polyester,Medium,9,No,,Messenger,Green,23.52755671
+300117,,Canvas,Small,2,Yes,No,Tote,,20.07146936
+300118,Jansport,Polyester,Medium,4,No,Yes,Backpack,Gray,13.72388952
+300119,Puma,Nylon,Medium,8,No,No,Messenger,Gray,7.701823344
+300120,Under Armour,Leather,Medium,8,No,No,Messenger,Gray,15.03268481
+300121,Puma,Nylon,Large,1,,Yes,Backpack,Green,20.23850125
+300122,Under Armour,Polyester,Small,2,No,,Messenger,Black,23.64454459
+300123,Puma,Leather,Large,2,No,Yes,Tote,Black,20.52974747
+300124,Puma,Canvas,Small,5,Yes,Yes,Backpack,Green,13.63844531
+300125,Puma,Canvas,Large,7,,No,Messenger,Black,13.80415762
+300126,Nike,Nylon,Large,5,Yes,No,Messenger,Red,16.89722807
+300127,Puma,Polyester,Large,5,No,Yes,Messenger,Green,9.596774817
+300128,Adidas,Polyester,Small,1,Yes,Yes,Backpack,Pink,22.60231539
+300129,Jansport,Nylon,Large,9,,No,Messenger,Red,22.14588471
+300130,Adidas,Canvas,Small,5,Yes,No,Backpack,Gray,18.96688213
+300131,Puma,Leather,Medium,4,Yes,No,Backpack,Green,7.57438088
+300132,Puma,Nylon,Small,8,Yes,Yes,Backpack,Pink,23.22689305
+300133,Adidas,Polyester,Medium,6,No,No,,Black,12.39056388
+300134,Under Armour,,Large,7,No,No,Backpack,Gray,15.61357031
+300135,Under Armour,Leather,Medium,1,No,Yes,Backpack,Blue,17.57379473
+300136,Nike,Leather,Medium,10,No,Yes,Messenger,Pink,24.06433557
+300137,Jansport,Canvas,Medium,7,No,Yes,Tote,Black,20.96745196
+300138,Nike,Nylon,Medium,3,No,Yes,Backpack,Pink,9.907376841
+300139,Nike,,Medium,10,No,Yes,Tote,Red,20.13635079
+300140,Puma,Leather,Medium,10,Yes,Yes,Messenger,Blue,9.947872253
+300141,Under Armour,Leather,Small,8,Yes,Yes,Backpack,Blue,16.82667689
+300142,Jansport,Canvas,Large,6,Yes,Yes,Backpack,Blue,8.156417624
+300143,Adidas,Canvas,Small,7,No,No,Messenger,Green,25.09407871
+300144,Under Armour,Nylon,Large,3,No,Yes,Backpack,Black,21.53422542
+300145,Under Armour,Canvas,Large,8,Yes,Yes,Tote,Black,19.72625345
+300146,Adidas,Canvas,Large,3,Yes,No,Backpack,Gray,26.33693654
+300147,Jansport,Polyester,Large,8,No,No,Tote,Red,26.23830117
+300148,Under Armour,Nylon,Small,7,Yes,Yes,Tote,Blue,11.73083792
+300149,Nike,Leather,Small,9,Yes,No,Backpack,Green,17.74400652
+300150,Puma,Polyester,Medium,5,Yes,No,Tote,Pink,26.67449633
+300151,Puma,Leather,Medium,3,No,Yes,Tote,Gray,24.73789466
+300152,,Canvas,Small,3,No,Yes,Backpack,Gray,11.5696653
+300153,Puma,Polyester,Large,7,No,Yes,Backpack,Black,12.50897713
+300154,Adidas,Leather,Small,2,No,No,Backpack,Red,29.93524741
+300155,Jansport,Nylon,Medium,9,Yes,Yes,Messenger,Blue,8.12781153
+300156,Under Armour,Polyester,Small,3,No,Yes,,Green,17.66942979
+300157,Puma,Nylon,Large,6,Yes,Yes,Tote,Green,6.753015544
+300158,Jansport,Nylon,Small,6,No,No,Tote,Green,28.99669638
+300159,Nike,Canvas,Large,4,Yes,Yes,Backpack,Green,25.82845949
+300160,Under Armour,,Small,8,No,No,Messenger,Blue,9.081479134
+300161,Adidas,Polyester,Medium,6,Yes,Yes,Backpack,Red,15.48837594
+300162,Under Armour,Leather,Medium,9,Yes,No,Tote,Blue,21.0658887
+300163,Adidas,Canvas,Large,3,No,Yes,Backpack,Black,26.9887688
+300164,Adidas,Leather,Large,9,Yes,Yes,Backpack,Red,14.94622962
+300165,Nike,Canvas,Large,6,No,No,Messenger,Gray,20.8694155
+300166,Jansport,Canvas,Large,10,Yes,No,Backpack,Red,27.06789945
+300167,Adidas,Canvas,Medium,7,Yes,No,Backpack,Gray,22.34110471
+300168,Jansport,Leather,Small,6,Yes,,Backpack,Red,24.72230818
+300169,Nike,Polyester,Large,3,Yes,Yes,Messenger,Blue,5.726314424
+300170,Puma,Canvas,Medium,6,Yes,Yes,Messenger,Black,10.6873263
+300171,Adidas,Leather,Medium,10,No,No,Backpack,Green,15.34105907
+300172,Under Armour,Canvas,Medium,8,No,Yes,Messenger,Black,25.80604938
+300173,Under Armour,Canvas,Medium,6,Yes,Yes,Tote,,6.567959391
+300174,Nike,Polyester,Small,10,Yes,No,Backpack,Green,6.05893088
+300175,Nike,Polyester,Large,6,Yes,No,Backpack,Gray,5.936720973
+300176,Under Armour,Polyester,Small,1,Yes,,Messenger,Blue,17.04908736
+300177,Nike,Canvas,,2,Yes,No,Backpack,Red,8.128412975
+300178,Nike,Nylon,Small,8,No,Yes,Messenger,Pink,26.7099368
+300179,Puma,Leather,Large,5,Yes,No,Backpack,Green,27.24447314
+300180,Jansport,Polyester,Medium,1,Yes,Yes,,Green,26.94566544
+300181,Nike,Leather,Small,2,Yes,No,Backpack,Green,15.05518712
+300182,Adidas,Leather,Small,4,Yes,Yes,Backpack,Blue,15.8381535
+300183,Under Armour,Leather,Medium,1,Yes,Yes,Messenger,Pink,9.755567982
+300184,Puma,Canvas,Large,6,No,Yes,Tote,Pink,22.83898493
+300185,Puma,Leather,Large,3,No,No,Messenger,Pink,24.95735041
+300186,Nike,Nylon,Small,5,Yes,No,Messenger,Blue,27.89182512
+300187,Puma,Nylon,Small,4,Yes,No,Backpack,Red,18.1820259
+300188,Puma,Nylon,Medium,6,Yes,Yes,,Pink,19.96442993
+300189,Nike,Canvas,Small,9,No,Yes,Backpack,Green,18.74468454
+300190,Adidas,,Small,5,Yes,No,Backpack,Black,20.58995272
+300191,Nike,Canvas,Small,8,No,No,Backpack,Pink,28.79609113
+300192,Puma,,Large,7,No,Yes,Backpack,Blue,13.94618071
+300193,Adidas,Nylon,Medium,10,No,Yes,Backpack,Red,17.5476576
+300194,Nike,Polyester,Small,10,No,No,Messenger,Gray,20.05690853
+300195,Nike,Canvas,Small,9,No,Yes,Backpack,Pink,27.24949953
+300196,Nike,Nylon,Medium,6,No,No,Tote,Blue,9.870027699
+300197,Adidas,Polyester,Small,6,Yes,Yes,Tote,Red,12.50235627
+300198,Adidas,Leather,Small,6,Yes,Yes,Messenger,Black,26.89898709
+300199,Puma,Canvas,Medium,2,,No,Messenger,Black,15.98223784
+300200,Under Armour,Leather,Large,3,Yes,Yes,Tote,Black,28.472496
+300201,Puma,Canvas,Medium,2,No,Yes,Tote,Pink,14.30280011
+300202,Puma,Canvas,Medium,1,Yes,Yes,Tote,Pink,5
+300203,Jansport,Nylon,Medium,10,No,Yes,Tote,Red,28.69605716
+300204,Adidas,Leather,Medium,8,No,Yes,Tote,Gray,8.799819019
+300205,Nike,Leather,Small,1,Yes,No,Messenger,Blue,15.09993875
+300206,Adidas,Nylon,,7,Yes,Yes,Tote,Red,19.90423396
+300207,Under Armour,Leather,Medium,9,Yes,Yes,Messenger,Black,9.652472713
+300208,Jansport,Leather,Large,7,No,Yes,Tote,Black,10.6835666
+300209,Puma,Polyester,Small,7,Yes,No,Messenger,Red,24.95840999
+300210,Under Armour,Leather,Medium,9,No,No,Tote,Gray,12.49289568
+300211,Jansport,Leather,Small,5,No,No,Tote,Pink,25.33992586
+300212,Jansport,Leather,Medium,6,Yes,Yes,Backpack,Green,10.81429549
+300213,Nike,Nylon,Medium,9,Yes,No,Messenger,Green,19.43392979
+300214,,Canvas,Medium,10,No,No,,Blue,25.82286857
+300215,Adidas,Leather,,1,Yes,No,Backpack,Blue,13.68834093
+300216,Jansport,Leather,Small,7,No,,Backpack,Black,28.92097139
+300217,Nike,Nylon,Large,9,No,,Backpack,Black,15.44819119
+300218,Jansport,Leather,Medium,4,No,Yes,Tote,,24.4527096
+300219,Nike,Polyester,Large,6,Yes,Yes,Backpack,Pink,11.25772097
+300220,Jansport,Leather,Small,4,No,Yes,Tote,Gray,7.867783651
+300221,Puma,Canvas,Small,4,Yes,Yes,Backpack,Blue,27.56499681
+300222,Jansport,Leather,Small,1,No,Yes,Messenger,Blue,25.45345074
+300223,Adidas,Leather,Large,9,No,Yes,Tote,Gray,28.66954358
+300224,Nike,Leather,Small,2,No,No,Backpack,Green,21.34228624
+300225,Adidas,Canvas,Medium,5,Yes,No,Backpack,Blue,26.77602107
+300226,Jansport,Canvas,Large,5,,No,Tote,Green,16.1808423
+300227,Adidas,Nylon,Medium,5,No,No,Backpack,Black,11.38741376
+300228,Under Armour,Polyester,Small,8,Yes,No,Tote,Pink,23.88478546
+300229,Jansport,Leather,Medium,10,Yes,Yes,Messenger,Blue,13.55931944
+300230,Under Armour,Polyester,Medium,2,Yes,Yes,Backpack,Pink,10.58412473
+300231,Jansport,Leather,Large,2,Yes,No,Messenger,,11.52541557
+300232,Under Armour,Polyester,Small,2,No,Yes,Tote,Gray,18.74939333
+300233,Nike,Polyester,Large,1,Yes,Yes,Backpack,Red,24.71983283
+300234,Adidas,Polyester,Large,1,Yes,No,Messenger,Pink,24.82407461
+300235,Adidas,Canvas,Medium,9,No,,Backpack,Green,27.08148977
+300236,Puma,Polyester,Large,3,No,No,Tote,Red,8.128043008
+300237,Puma,Leather,Medium,10,No,No,Backpack,Green,28.75552377
+300238,Puma,Polyester,Large,6,Yes,Yes,Tote,Pink,24.67769928
+300239,Adidas,Leather,Medium,9,Yes,No,Backpack,Green,10.27773471
+300240,Nike,Polyester,Medium,4,Yes,Yes,Messenger,Red,16.56698858
+300241,Adidas,Polyester,Small,5,Yes,Yes,Messenger,Green,23.81189051
+300242,Under Armour,Nylon,Medium,3,Yes,No,Backpack,Green,20.47018255
+300243,Adidas,Leather,Medium,10,No,No,Messenger,Gray,7.287260802
+300244,Under Armour,Leather,Medium,10,No,Yes,Messenger,Pink,11.68455934
+300245,Puma,Leather,Large,5,Yes,No,Tote,Red,11.75296816
+300246,Under Armour,Leather,Large,3,No,Yes,Backpack,Black,15.381438
+300247,Nike,Canvas,Medium,9,No,No,Messenger,Pink,19.14149515
+300248,Jansport,Canvas,Large,9,No,Yes,Tote,Green,24.4994688
+300249,Adidas,Polyester,Large,1,No,No,Backpack,Green,19.94621343
+300250,Adidas,Leather,Small,4,Yes,No,Messenger,Red,15.34707884
+300251,Nike,Canvas,Large,2,Yes,Yes,Messenger,Blue,14.82618109
+300252,Puma,Polyester,Large,2,No,Yes,Tote,Green,6.182620131
+300253,Jansport,Polyester,Small,2,No,No,Tote,Gray,8.739628502
+300254,Under Armour,Polyester,Medium,5,Yes,No,Messenger,Blue,26.74941559
+300255,Under Armour,Canvas,Large,3,No,Yes,Messenger,Gray,11.49004901
+300256,Puma,Canvas,Medium,5,No,Yes,Messenger,Green,18.63729009

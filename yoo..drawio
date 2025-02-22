@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
+  <diagram id="5Urpi27wJ9ycOaR6ALdF" name="Page-1">
+    <mxGraphModel dx="1434" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Dataset Collection" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#DDEBF7;strokeColor=#2F5597;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="300" y="20" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Data Cleaning &amp; Transformation" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FFF2CC;strokeColor=#BF9000;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="250" y="90" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Statistical Data Analysis" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#E2EFDA;strokeColor=#548235;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="250" y="160" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Model Training (SVM, Neural Networks, Decision Trees, etc.)" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FCE4D6;strokeColor=#C55A11;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="200" y="230" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Performance Evaluation" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#D9E1F2;strokeColor=#2E75B6;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="250" y="320" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Model Integration (API)" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#EAD1DC;strokeColor=#A64D79;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="250" y="390" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Application Deployment Web / Mobile" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#D9D2E9;strokeColor=#604A7B;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="250" y="460" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" source="3" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" source="4" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="1" source="5" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" source="6" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="1" source="7" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62b8F68ynea9yNMomxCB-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-10" width="490" height="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
